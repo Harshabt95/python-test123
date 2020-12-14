@@ -1,0 +1,10 @@
+ch = input("enter ur choice: ")
+
+if int(ch) == 1:
+  print("no is 1")
+
+elif int(ch) == 2:
+  print("no is 2")
+
+else: 
+  print("none")
